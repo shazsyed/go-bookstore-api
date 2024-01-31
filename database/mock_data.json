@@ -1,0 +1,96 @@
+{
+  "books": [
+    {
+      "isbn": "FAKE01",
+      "name": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "published_year": 1960,
+      "genre": "Fiction",
+      "description": "A classic novel depicting racial injustice in the American South.",
+      "price": 24.59,
+      "stock": 5
+    },
+    {
+      "isbn": "FAKE02",
+      "name": "1984",
+      "author": "George Orwell",
+      "published_year": 1949,
+      "genre": "Dystopian",
+      "description": "A dystopian novel portraying a totalitarian society.",
+      "price": 10.2,
+      "stock": 20
+    },
+    {
+      "isbn": "FAKE03",
+      "name": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "published_year": 1813,
+      "genre": "Romance",
+      "description": "A classic novel exploring themes of love, marriage, and social norms.",
+      "price": 18.9,
+      "stock": 10
+    },
+    {
+      "isbn": "FAKE04",
+      "name": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "published_year": 1925,
+      "genre": "Classic",
+      "description": "A tale of the American Dream, wealth, and love during the Roaring Twenties.",
+      "cover_image": "https://fakeimg.pl/667x1000/cc6600",
+      "price": 6.99,
+      "stock": 4
+    },
+    {
+      "isbn": "FAKE05",
+      "name": "Moby-Dick",
+      "author": "Herman Melville",
+      "published_year": 1851,
+      "genre": "Adventure",
+      "description": "The epic tale of Captain Ahab's obsession with the white whale.",
+      "price": 44.0,
+      "stock": 14
+    },
+    {
+      "isbn": "FAKE01",
+
+      "name": "The Lord of the Rings",
+      "author": "J.R.R. Tolkien",
+      "published_year": 1954,
+      "genre": "Fantasy",
+      "description": "An epic fantasy saga about the quest to destroy the One Ring.",
+      "price": 59.99,
+      "stock": 30
+    },
+    {
+      "isbn": "FAKE06",
+      "name": "The Catcher in the Rye",
+      "author": "J.D. Salinger",
+      "published_year": 1951,
+      "genre": "Coming-of-age",
+      "description": "A classic coming-of-age novel following Holden Caulfield's journey.",
+      "price": 17.4,
+      "stock": 6
+    },
+    {
+      "isbn": "FAKE07",
+      "name": "The Hobbit",
+      "author": "J.R.R. Tolkien",
+      "published_year": 1937,
+      "genre": "Adventure",
+      "description": "The prequel to The Lord of the Rings, following Bilbo Baggins' journey.",
+      "price": 69.99,
+      "stock": 2
+    },
+    {
+      "isbn": "FAKE08",
+      "name": "One Hundred Years of Solitude",
+      "author": "Gabriel Garcia Marquez",
+      "published_year": 1967,
+      "genre": "Magical Realism",
+      "description": "A multi-generational saga of the Buendía family in the fictional town of Macondo.",
+      "price": 9.2,
+      "stock": 8
+    }
+  ]
+}
